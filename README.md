@@ -76,25 +76,6 @@ For Windows PowerShell:
 
 ---
 
-## Screenshots
-
-### Main Menu
-
-(Add screenshot here)
-
-### Room Booking
-
-(Add screenshot here)
-
-### Bill Generation
-
-(Add screenshot here)
-
-### Hotel Report
-
-(Add screenshot here)
-
----
 
 ## Future Improvements
 
